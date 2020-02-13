@@ -1,6 +1,6 @@
 # RecipeBook
-The RecipeBook app provides convenient access to recipe information that's stored in a SQLite database on the device. You can:\
-- scroll througn or an alphabetical recipe list\
+The RecipeBook app provides convenient access to recipe information that's stored in a SQLite database on the device. You can:
+- scroll througn or an alphabetical recipe list
 - view a recipe's details by touching a recipe's title in the recipe list\
           ![](https://i.imgur.com/8LHzouB.jpg)
 - add or delete recipes\
