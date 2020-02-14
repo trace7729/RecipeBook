@@ -1,4 +1,4 @@
-# RecipeBook
+# RecipeBook (Spring 2018)
 The RecipeBook app provides convenient access to recipe information that's stored in a SQLite database on the device.\
 You can:
 - scroll througn or an alphabetical recipe list
